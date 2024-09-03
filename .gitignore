@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,git,java,maven,eclipse,intellij,gradle
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,git,java,maven,eclipse,intellij,gradle
 
@@ -198,6 +199,8 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 ### Java ###
+=======
+>>>>>>> 88ddbf26d7bf6daeb2acb10a2385fab82a4862be
 # Compiled class file
 *.class
 
@@ -222,6 +225,7 @@ fabric.properties
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 
 ### macOS ###
 # General
@@ -327,3 +331,5 @@ gradle-app.setting
 *.hprof
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,git,java,maven,eclipse,intellij,gradle
+=======
+>>>>>>> 88ddbf26d7bf6daeb2acb10a2385fab82a4862be
